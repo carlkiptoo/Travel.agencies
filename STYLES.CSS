@@ -8,3 +8,12 @@
   color: red;
   background-color: black;
 }
+.important {
+  font-style: italic;
+  background-color: orange;
+  backface-visibility: visible;
+
+}
+.unimportant {
+  font-family: monospace;
+}
